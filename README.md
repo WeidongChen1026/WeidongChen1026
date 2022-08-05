@@ -1,14 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 数仓工程师—入戏的演员
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+热爱数仓、热爱技术。
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，13万阅读
 
 ### **技术栈:**
 
@@ -21,13 +19,12 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=WeidongChen1026&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![WeidongChen1026's github stats](https://github-readme-stats.vercel.app/api?username=WeidongChen1026&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeidongChen1026)
