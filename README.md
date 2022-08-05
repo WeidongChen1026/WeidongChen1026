@@ -11,11 +11,17 @@
 ### **技术栈:**
 
 basic JAVA SE (hdfs)
+
 Linux
+
 Shell
+
 flume/sqoop/datax
+
 kafka
+
 Hive
+
 oozie
 
 
